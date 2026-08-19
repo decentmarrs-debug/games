@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 1 1000;
+  font-display: swap;
+  src: url("/css/fonts/SFPro.woff2") format("woff2-variations"),
+       url("/css/fonts/SFPro.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "SF Pro";
+  font-style: italic;
+  font-weight: 1 1000;
+  font-display: swap;
+  src: url("/css/fonts/SFProItalic.woff2") format("woff2-variations"),
+       url("/css/fonts/SFProItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "SF Pro Icons";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/css/fonts/SFProIcons_light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Icons";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/css/fonts/SFProIcons_regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Icons";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/css/fonts/SFProIcons_medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Icons";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/css/fonts/SFProIcons_semibold.woff") format("woff");
+}
